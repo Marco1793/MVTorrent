@@ -1,18 +1,8 @@
 <channels>
 <channel>
-<name>Ação</name>
-<thumbnail>https://lh3.googleusercontent.com/pw/ACtC-3dBL2q5hc3fmrINkMKBm9WBtN8lYW9mi2egVatbUbNqoK4A4df_CIeg58Og4yG08gusl3-pc8hwM46ksID60SDmM3DN8ny-lUFC3eZhmWpMsdZb4HOv-1ZRYjv1i70sL-qGJgardZhZiSvIqaLQI85i6w=w645-h912-no?authuser=0</thumbnail>
-<externallink>https://ghostbin.co/paste/nzdw6/raw</externallink>
-<fanart>https://i.imgur.com/pk8hVv5.jpg</fanart>
-<info>Filmes de Ação</info>
-</channel>
-</channels>
-
-<channels>
-<channel>
 <name>Animação</name>
 <thumbnail>https://lh3.googleusercontent.com/pw/ACtC-3fiaRvO7Eaws_sPUj_FU34pN2jn9nLmSOqiAMhHmeAlXAraS2oLQibY-6aiJvY3iHLik8E3aod_ylY9fHsGNGU-B5OYjPpMvfAcCbPztwh36u4PgZXwmA5k4j7-nUYxftti13e7eeQB_JP_UZx2DMy-nA=w645-h912-no?authuser=0</thumbnail>
-<externallink>https://ghostbin.co/paste/8ogm/raw</externallink>
+<externallink>https://raw.githubusercontent.com/Marco1793/MVTorrent-filmes-/main/Anima%C3%A7%C3%A3o</externallink>
 <fanart>https://i.imgur.com/pk8hVv5.jpg</fanart>
 <info>Filmes de Animação</info>
 </channel>
@@ -22,9 +12,19 @@
 <channel>
 <name>Aventura</name>
 <thumbnail>https://lh3.googleusercontent.com/pw/ACtC-3dtIGtRtrREHHHTcZag6ig2To5iur-_82vK_Uvk02xYr_U_KWWkZ246bC2N4wWZccsp08ke__JQJoWB062A29mLVoY_8ZpL5xmml3i7rsc4bemCcDel-U5qmrZ0dQ3kVI8Fb06X_dCeD2c97bRdDgZUQQ=w645-h912-no?authuser=0</thumbnail>
-<externallink>https://ghostbin.co/paste/76fnwc/raw</externallink>
+<externallink>https://raw.githubusercontent.com/Marco1793/MVTorrent-filmes-/main/Aventura</externallink>
 <fanart>https://i.imgur.com/pk8hVv5.jpg</fanart>
 <info>Filmes de Aventura</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>Ação</name>
+<thumbnail>https://lh3.googleusercontent.com/pw/ACtC-3dBL2q5hc3fmrINkMKBm9WBtN8lYW9mi2egVatbUbNqoK4A4df_CIeg58Og4yG08gusl3-pc8hwM46ksID60SDmM3DN8ny-lUFC3eZhmWpMsdZb4HOv-1ZRYjv1i70sL-qGJgardZhZiSvIqaLQI85i6w=w645-h912-no?authuser=0</thumbnail>
+<externallink>https://raw.githubusercontent.com/Marco1793/MVTorrent-filmes-/main/A%C3%A7%C3%A3o</externallink>
+<fanart>https://i.imgur.com/pk8hVv5.jpg</fanart>
+<info>Filmes de Ação</info>
 </channel>
 </channels>
 
