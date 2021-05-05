@@ -106,3 +106,27 @@
 <thumbnail>https://image.tmdb.org/t/p/w342/qbSsR0IfnxdXZqfRMpH2PgLAbPV.jpg</thumbnail>
 <info>Cherry deixa a faculdade para se tornar médico no Iraque, apoiado por sua amada, Emily. Ao voltar da guerra com estresse pós-traumático, se envolve com crime e drogas enquanto luta para reconquistar seu lugar no mundo.</info>
 </item>
+
+<item><title>Ponto Vermelho</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1df29dd9db8bff7ce16f7c96988dcf7cd1c486c5</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/cMhoSGFMOOZUyvZYB6Q9AR4t6fV.jpg</thumbnail>
+<info>Um casal resolve fazer uma viagem para reacender a paixão, mas acaba tendo de fugir de um atirador desconhecido em uma região inóspita no norte da Suécia.</info>
+</item>
+
+<item><title>Sozinha</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5cfc012a72a5e16cfe066cc8331986469c99e16f</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/1uM44zocn4f6Gm4lYFFgxpsZNX1.jpg</thumbnail>
+<info>Uma viúva ainda em luto deixa sua cidade natal em uma tentativa de lidar com a perda do marido. Ela então é raptada por um homem misterioso e trancada em uma cabana no Pacífico, mas consegue escapar, fugir para a floresta, enquanto é caçada por seu algoz.</info>
+</item>
+
+<item><title>Medo da Chuva</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d80369bde11cd247140d081451871f1eafcd3930</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/A2694ArUU9smr7WlfmXT2hYPkgO.jpg</thumbnail>
+<info>Uma adolescente que vive com esquizofrenia começa a suspeitar que o vizinho sequestrou uma criança. Seus pais tentam desesperadamente ajudá-la a viver uma vida normal, sem expor seus próprios segredos trágicos, e a única pessoa que acredita nela é Caleb – um menino que ela nem tem certeza de que existe.</info>
+</item>
+
+<item><title>Nomadland</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c7170b8c4dcd47173859b3abd68e2c2e67e67a51</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/pLwarSuyUjw6vF0U6JhlHzAa1Gp.jpg</thumbnail>
+<info>Após o colapso econômico de uma cidade na zona rural de Nevada, nos Estados Unidos, Fern, uma mulher de 60 anos, entra em sua van e parte para a estrada, vivendo uma vida fora da sociedade convencional como uma nômade moderna.</info>
+</item>
