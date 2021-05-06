@@ -305,3 +305,15 @@
 <thumbnail>https://image.tmdb.org/t/p/w342/vcQY8T1owyMMRmp9dZiUTUQVxKW.jpg</thumbnail>
 <info>De férias no Havaí, um casal de irmãos do Brooklyn se conecta com a família e as origens enquanto buscam um tesouro perdido.</info>
 </item>
+
+<item><title>Sem Remorso</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9e0f71242d2aa553938915d6245cab9401620cc1</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/uHEZ4ZMziIjlAgCTQAEh9ROvtj0.jpg</thumbnail>
+<info>Um agente da CIA busca vingança depois de sua namorada ter sido morta por um traficante de Baltimore.</info>
+</item>
+
+<item><title>Frozen II</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f4cfa699d200ba0aab780b4861e733dd737a32c5</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/y2pvlZsqGcXKT4S7nUdvYfETG5r.jpg</thumbnail>
+<info>De volta à infância de Elsa e Anna, as duas garotas descobrem uma história do pai, quando ainda era príncipe de Arendelle. Ele conta às meninas a história de uma visita à floresta dos elementos, onde um acontecimento inesperado teria provocado a separação dos habitantes da cidade com os quatro elementos fundamentais: ar, fogo, terra e água. Esta revelação ajudará Elsa a compreender a origem de seus poderes.</info>
+</item>
