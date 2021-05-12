@@ -17,3 +17,13 @@
 <info>Series</info>
 </channel>
 </channels>
+
+<channels>
+<channel>
+<name>Animes</name>
+<thumbnail>https://lh3.googleusercontent.com/pw/ACtC-3cPkhkA4t8H2al_k353QQRz813p28LUmbjDoTUyOe4rB21VpA3gB1AFkEveU5Ba-NY80oBqZSq-ERJhtTWrHFOoK_i1NGdNd8Rl4UlS_n7TksxH5VOWNObOPsrwikrYh4A144RPGgXUxfzinKXXR6VGRg=w685-h969-no?authuser=0</thumbnail>
+<externallink>https://raw.githubusercontent.com/Marco1793/MVAnimes/main/Sub-menu(Animes)</externallink>
+<fanart>https://i.imgur.com/pk8hVv5.jpg</fanart>
+<info>Series</info>
+</channel>
+</channels>
