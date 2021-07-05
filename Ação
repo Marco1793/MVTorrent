@@ -841,3 +841,21 @@
 <thumbnail>https://image.tmdb.org/t/p/w342/ijvC2w2yANsfgLT3LMu2zFr0fxh.jpg</thumbnail>
 <info>Nova aventura baseada no videogame Mortal Kombat. Na história, um jovem que nunca treinou artes marciais acaba envolvido em um gigantesco torneio de luta envolvendo guerreiros da Terra e lutadores e outras dimensões.</info>
 </item>
+
+<item><title>Matrix</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76949E573FF48AA138F1E06541F3482BB49359C2</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/etJHvVsM9aefWWrW23r5BXgVK1F.jpg</thumbnail>
+<info>Um jovem programador é atormentado por estranhos pesadelos nos quais sempre está conectado por cabos a um imenso sistema de computadores do futuro. À medida que o sonho se repete, ele começa a levantar dúvidas sobre a realidade. E quando encontra os misteriosos Morpheus e Trinity, ele descobre que é vítima do Matrix, um sistema inteligente e artificial que manipula a mente das pessoas e cria a ilusão de um mundo real enquanto usa os cérebros e corpos dos indivíduos para produzir energia.</info>
+</item>
+
+<item><title>Matrix Reloaded</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7FACB3BBA6DCA4E3D9CD38667F969A8F066E625A</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pTGg4gT6yBAxm6bskTkOjdRsbit.jpg</thumbnail>
+<info>Após derrotar as máquinas em seu combate inicial, Neo ainda vive na Nabucodonosor ao lado de Morpheus, Trinity e Link, o novo tripulante da nave. As máquinas estão realizando uma grande ofensiva contra Zion, onde 250 mil delas escavam rumo à cidade e podem alcançá-la em poucos dias. A Nabucodonosor é convocada para retornar a Zion e participar da reunião que definirá o contra-ataque para salvar a humanidade da extinção. Entretanto, um recado enviado pelo Oráculo faz com que Neo retorne à Matrix.</info>
+</item>
+
+<item><title>Matrix Revolutions</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0031D1FE5C08946AFEE4EF57D1D8DE516AF67D74</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/t1wm4PgOQ8e4z1C6tk1yDNrps4T.jpg</thumbnail>
+<info>Após enfrentar os sentinelas no mundo real, Neo, a maior esperança da humanidade, está preso entre a Matrix e a realidade. A maioria da população do planeta permanece em um estado de suspensão da realidade virtual. Os poucos humanos que estão cientes das duras realidades tentam desesperadamente afastar as máquinas a tempo de Neo escapar e salvar o dia. Mas as coisas pioram quando o poderoso programa de computador, Agente Smith, aparece na forma humana.</info>
+</item>
