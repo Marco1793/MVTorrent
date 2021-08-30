@@ -1292,3 +1292,15 @@
 <thumbnail>https://image.tmdb.org/t/p/w342/yJh2piyBmY5BvfNBl8EsDNxaFh4.jpg</thumbnail>
 <info>Tobey Marshall é um mecânico que compete com carros de alta potência em um circuito não oficial de corridas de rua. Tobey acaba preso injustamente, por causa do traiçoeiro ex-piloto da Fórmula Indy, Dino Brewster. Ao sair da cadeia, ele volta às ruas com um único objetivo: vingar-se de Dino.</info>
 </item>
+
+<item><title>The Witcher: Lenda do Lobo</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8b983e92283af5f2ba0252f88731b800eb97740e</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kPry1BAfJtYNyQEpKdV4cYan6MB.jpg</thumbnail>
+<info>O mundo de The Witcher se amplia neste anime em 2D que explora uma nova ameaça ao Continente.</info>
+</item>
+
+<item><title>Ascensão do Cisne Negro</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:14ea062ba1458e7df8b8ee650f80c6241688e755</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6Y9fl8tD1xtyUrOHV2MkCYTpzgi.jpg</thumbnail>
+<info>Um pequeno exército de criminosos bem treinados liderados por Laszlo Antonov sequestrou o Eurostar nas profundezas do Canal da Mancha.</info>
+</item>
