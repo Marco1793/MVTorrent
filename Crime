@@ -162,7 +162,7 @@ I Care a Lot é um filme de drama e suspense estadunidense de 2020 escrito e dir
 </item>
 
 <item><title>Infiltrado</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D5E06EE6D67F3585616248D352BD289F47212B1C</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10ccb57ea7c6a8ac1e85dae90726699e79cb0e32</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dAtAp4IeT6EYGhewfnNNhalobme.jpg</thumbnail>
 <info>Harry, conhecido apenas como H, é um homem misterioso que trabalha para uma empresa de carros-fortes e movimenta grandes quantias de dinheiro pela cidade de Los Angeles. Quando, ao impedir um assalto, ele surpreende a todos com suas habilidades de combate, suas verdadeiras intenções começam a ser questionadas e um plano maior é revelado.</info>
 </item>
@@ -399,4 +399,16 @@ I Care a Lot é um filme de drama e suspense estadunidense de 2020 escrito e dir
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ttpja5sxxx3ovdbqycrpnbtm4wcxyh65</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/r2NnRp4mi4G3e0x9zINQIcnGNd8.jpg</thumbnail>
 <info>Cansados dos casos pequenos, três policiais têm a chance de desmantelar uma rede de tráfico de drogas em Marselha. Mas as coisas se complicam depois que uma informante pede um favor.</info>
+</item>
+
+<item><title>Dano Colateral</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:583f1374518c997fd40e027d8567c1d05acc7af3</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/72IZflwWiaoHc2e3Qzdi0egtbAV.jpg</thumbnail>
+<info>Um promotor público de sucesso se envolve em um mistério altamente arriscado.</info>
+</item>
+
+<item><title>O Culpado</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9db152db4ba8f3f51a58b6188b43e1dea6f0bae3</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8JmNl927pzilMKGLs8u4wv7wGEJ.jpg</thumbnail>
+<info>Um detetive rebaixado a operador de chamadas de emergência tenta salvar uma mulher desesperada em meio a um dia frenético cheio de revelações – e acertos de contas.</info>
 </item>
